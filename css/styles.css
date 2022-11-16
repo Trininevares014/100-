@@ -38,6 +38,10 @@ label{
 img{
     width: 100%;
 }
+
+.biografia{
+    text-align: justify;
+}
 .row{
     
     display: flex;
