@@ -12,8 +12,6 @@ ul{
 
 
 body{
-    margin: 2px;
-    padding: 10px;
     background: black;
 }
 
@@ -56,6 +54,28 @@ img{
  .column img{
     margin-top: 10px;
  }
+
+#galeria .col-lg-4{
+    margin: 0;
+    padding: 25px;
+}
+
+#galeria img{
+    width: 100%;
+}
+
+#galeria img:hover{
+    border: 15px solid #0000;
+}
+
+#discos .col-lg-4{
+    margin: 0;
+    padding: 25px;
+}
+
+#discos img{
+    width: 100%;
+}
 
  .footer{
     background-color: #60807E;
